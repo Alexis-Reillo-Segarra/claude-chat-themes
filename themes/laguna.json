@@ -1,0 +1,14 @@
+{
+  "id": "laguna",
+  "label": "Laguna Honu",
+  "description": "Laguna ASCII con tortugas, peces y burbujas",
+  "author": "chat-themes",
+  "water": { "top": "#d4f1f2", "bottom": "#4f9fd3" },
+  "dots": "#ffffff",
+  "bubble": "#ffffff",
+  "tiles": {
+    "S": "#9c7a2c", "s": "#d9b65a", "h": "#e9d98a", "f": "#cdb86a",
+    "y": "#f3d64a", "o": "#f0a63a", "p": "#e86f86", "P": "#c94c68",
+    "g": "#5fb38a", "G": "#3d8f6c", "w": "#f4f1e4"
+  }
+}

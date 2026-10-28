@@ -1,0 +1,22 @@
+{
+  "id": "medusas",
+  "label": "Medusas",
+  "description": "Ejemplo con sprites propios: medusas y caballitos de mar",
+  "author": "tu-usuario",
+  "water": { "top": "#2a1b4d", "bottom": "#0b0618" },
+  "dots": "#c9b8ff",
+  "bubble": "#e2d9ff",
+  "tiles": { "m": "#f7a8d8", "M": "#d46aa8", "t": "#ffd6f0", "c": "#ffcf6e", "C": "#e09a3a", "r": "#6a4fb3", "R": "#45307f" },
+  "glyphs": { "m": "~o", "M": "@", "t": "|:", "c": "c", "C": "&", "r": "^", "R": "#" },
+  "sprites": {
+    "big": [
+      ["..mmmm..", ".mMMMMm.", "mMMMMMMm", "mmmmmmmm", ".t.t.t..", "..t.t.t.", ".t.t.t..", "..t...t."],
+      ["..mmmm..", ".mMMMMm.", "mMMMMMMm", "mmmmmmmm", "..t.t.t.", ".t.t.t..", "..t.t.t.", ".t...t.."]
+    ],
+    "small": [
+      [".cc", "cCc", ".C.", ".Cc", "..c"],
+      ["cc.", "cCc", ".C.", "cC.", "c.."]
+    ],
+    "floor": ["..r....r..", ".rRr..rRr.", ".rRr.rRRr.", "rRRRrRRRRr"]
+  }
+}

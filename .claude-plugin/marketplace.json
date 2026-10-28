@@ -1,0 +1,5 @@
+{
+  "name": "claude-chat-themes",
+  "owner": { "name": "Alexis-Reillo-Segarra" },
+  "plugins": [{ "name": "chat-themes", "source": "./" }]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "chat-themes",
+  "version": "0.1.0",
+  "description": "Temas animados para el chat de Claude: escenas ASCII (laguna, atardecer, abismo…) en un panel junto a la conversación, y temas creados por la comunidad en JSON",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "Alexis-Reillo-Segarra",
+    "url": "https://github.com/Alexis-Reillo-Segarra"
+  },
+  "repository": "https://github.com/Alexis-Reillo-Segarra/claude-chat-themes"
+}

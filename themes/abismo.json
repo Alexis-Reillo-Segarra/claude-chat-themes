@@ -1,0 +1,14 @@
+{
+  "id": "abismo",
+  "label": "Abismo",
+  "description": "Arrecife bioluminiscente de noche",
+  "author": "chat-themes",
+  "water": { "top": "#163a5c", "bottom": "#050d1f" },
+  "dots": "#7fd6ff",
+  "bubble": "#9be7ff",
+  "tiles": {
+    "S": "#1f6f78", "s": "#3cc0b0", "h": "#a5f3e0", "f": "#62d9c4",
+    "y": "#c6ff6e", "o": "#6ee7ff", "p": "#ff5fd2", "P": "#b03aa0",
+    "g": "#2fd18f", "G": "#178a63", "w": "#e0fbff"
+  }
+}

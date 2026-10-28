@@ -1,0 +1,14 @@
+{
+  "id": "atardecer",
+  "label": "Atardecer",
+  "description": "Agua dorada al caer el sol",
+  "author": "chat-themes",
+  "water": { "top": "#ffe3c2", "bottom": "#e0708a" },
+  "dots": "#fff6ea",
+  "bubble": "#fff6ea",
+  "tiles": {
+    "S": "#7a3f5c", "s": "#c46f86", "h": "#f2c38e", "f": "#e3a77b",
+    "y": "#ffd166", "o": "#ff9f43", "p": "#ff6b6b", "P": "#c44569",
+    "g": "#9b8bd0", "G": "#6c5ca8", "w": "#fff3e0"
+  }
+}
